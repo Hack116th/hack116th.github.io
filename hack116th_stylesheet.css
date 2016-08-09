@@ -67,13 +67,20 @@ html {
   letter-spacing: 3px;
 }
 
+#logo_container:hover{
+  background-color: #000000;
+  border: 1px solid #454141;
+}
 
 #logo_container {
   display: flex;
   margin-right: 15px;
   height:42px;
   align-items: center;
+  color: white;
 }
+
+
 
 #main {
 background-size: 450px 250px;
